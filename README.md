@@ -30,11 +30,11 @@ npm start
 
 ### Read Request
 
-![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/1.png)
+![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/2.png)
 
 ### Delete Request
 
-![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/1.png)
+![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/3.png)
 
 ## Unit Testing
 
@@ -44,4 +44,4 @@ Run the following commands to start the unit test
 
 ### Test Result
 
-![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/master/ReadMeImages/4.png)
+![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/4.png)
