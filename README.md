@@ -26,15 +26,15 @@ npm start
 
 ### Create Request
 
-![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/master/ReadMeImages/1.png)
+![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/1.png)
 
 ### Read Request
 
-![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/master/ReadMeImages/2.png)
+![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/1.png)
 
 ### Delete Request
 
-![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/master/ReadMeImages/3.png)
+![CRD](https://github.com/kaustubhsh/crd_operation_nodejs/blob/main/ReadMeImages/1.png)
 
 ## Unit Testing
 
